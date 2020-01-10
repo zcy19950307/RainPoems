@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rp-gateway" />
+        <module name="RainPoems" />
+        <module name="rp-generator" />
+        <module name="rp-order" />
+        <module name="rp-ums" />
+        <module name="rp-sms" />
+        <module name="rp-cart" />
+        <module name="guli-generator" />
+        <module name="rp-wms" />
+        <module name="rp-search" />
+        <module name="rp-pms" />
+        <module name="rp-core" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="guli-generator" options="-parameters" />
+      <module name="rp-cart" options="-parameters" />
+      <module name="rp-core" options="-parameters" />
+      <module name="rp-gateway" options="-parameters" />
+      <module name="rp-generator" options="-parameters" />
+      <module name="rp-order" options="-parameters" />
+      <module name="rp-pms" options="-parameters" />
+      <module name="rp-search" options="-parameters" />
+      <module name="rp-sms" options="-parameters" />
+      <module name="rp-ums" options="-parameters" />
+      <module name="rp-wms" options="-parameters" />
+    </option>
+  </component>
+</project>

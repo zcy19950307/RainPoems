@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09b230d6-f0a3-4683-b718-9d7b14e4dd21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\IDEA\maven\maven_jar" />
+        <option name="mavenHome" value="D:/IDEA/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\IDEA\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W9T3C2tK97gXwjshL7hC7teYaY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rp-ums/src/main/resources/mapper/rpsms" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\uniproject\RainPoems\rp-ums\src\main\resources\mapper\rpsms" />
+      <recent name="D:\uniproject\RainPoems\rp-ums\src\main\resources" />
+      <recent name="D:\uniproject\RainPoems\rp-ums\src\main\java\com\rainpoems\rainpoems" />
+      <recent name="D:\uniproject\RainPoems\rp-wms\src\main\java\com\rainpoems\rpwms" />
+      <recent name="D:\uniproject\RainPoems\rp-sms\src\main\java\com\rainpoems\rpsms\service\impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\uniproject\RainPoems\rp-order\src\main\resources" />
+      <recent name="D:\dianshang\RainPoems" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RenrenApplication (1)">
+    <configuration name="RainpoemsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rp-ums" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rainpoems.rpums.RainpoemsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="rp-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.RenrenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RenrenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="guli-generator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.RenrenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rp-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rainpoems.rpcart.RpCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rp-core" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rainpoems.rpcore.RpCoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rp-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rainpoems.rpgateway.RpGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rp-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rainpoems.rporder.RpOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpPmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rp-pms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rainpoems.rppms.RpPmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rp-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rainpoems.rpsearch.RpSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rp-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rainpoems.rpsms.RpSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RpWmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rp-wms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rainpoems.rpwms.RpWmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RenrenApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09b230d6-f0a3-4683-b718-9d7b14e4dd21" name="Default Changelist" comment="" />
+      <created>1578560608442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578560608442</updated>
+      <workItem from="1578560610423" duration="699000" />
+      <workItem from="1578561673756" duration="83000" />
+      <workItem from="1578568879236" duration="4050000" />
+      <workItem from="1578573726948" duration="971000" />
+      <workItem from="1578614899893" duration="486000" />
+      <workItem from="1578615442053" duration="483000" />
+      <workItem from="1578615987029" duration="303000" />
+      <workItem from="1578616507359" duration="340000" />
+      <workItem from="1578617023742" duration="4111000" />
+      <workItem from="1578621222928" duration="209000" />
+      <workItem from="1578621454043" duration="50000" />
+      <workItem from="1578621524975" duration="776000" />
+      <workItem from="1578622719000" duration="27000" />
+      <workItem from="1578622823846" duration="82000" />
+      <workItem from="1578623223669" duration="284000" />
+      <workItem from="1578624910517" duration="300000" />
+      <workItem from="1578626290047" duration="274000" />
+      <workItem from="1578626582513" duration="27000" />
+      <workItem from="1578627264141" duration="56000" />
+      <workItem from="1578627359898" duration="129000" />
+      <workItem from="1578627510691" duration="163000" />
+      <workItem from="1578627690513" duration="129000" />
+      <workItem from="1578628123049" duration="61000" />
+      <workItem from="1578628201130" duration="146000" />
+      <workItem from="1578628382073" duration="21000" />
+      <workItem from="1578628499863" duration="33000" />
+      <workItem from="1578628552238" duration="2414000" />
+      <workItem from="1578635202636" duration="2160000" />
+      <workItem from="1578637397378" duration="3073000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="182" key="#Project_Structure" timestamp="1578617504718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578617504718" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1578617782976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578617782976" />
+    <state x="767" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578635585975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="767" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578635585975" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1578614939407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578614939407" />
+    <state width="1877" height="18" key="GridCell.Tab.0.bottom" timestamp="1578638002267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578638002267" />
+    <state width="1877" height="18" key="GridCell.Tab.0.center" timestamp="1578638002267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578638002267" />
+    <state width="1877" height="18" key="GridCell.Tab.0.left" timestamp="1578638002266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578638002266" />
+    <state width="1877" height="18" key="GridCell.Tab.0.right" timestamp="1578638002267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578638002267" />
+    <state width="1877" height="18" key="GridCell.Tab.1.bottom" timestamp="1578638002021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578638002021" />
+    <state width="1877" height="18" key="GridCell.Tab.1.center" timestamp="1578638002021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578638002021" />
+    <state width="1877" height="18" key="GridCell.Tab.1.left" timestamp="1578638002021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578638002021" />
+    <state width="1877" height="18" key="GridCell.Tab.1.right" timestamp="1578638002021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578638002021" />
+    <state width="1877" height="18" key="GridCell.Tab.2.bottom" timestamp="1578638002022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578638002022" />
+    <state width="1877" height="18" key="GridCell.Tab.2.center" timestamp="1578638002022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578638002022" />
+    <state width="1877" height="18" key="GridCell.Tab.2.left" timestamp="1578638002022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578638002022" />
+    <state width="1877" height="18" key="GridCell.Tab.2.right" timestamp="1578638002022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="18" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578638002022" />
+    <state x="490" y="178" key="Maven.ArtifactSearchDialog" timestamp="1578617834382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="178" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578617834382" />
+    <state x="463" y="164" width="993" height="710" key="SettingsEditor" timestamp="1578637375139">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="164" width="993" height="710" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578637375139" />
+    <state x="92" y="199" width="1736" height="749" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1578621099044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="199" width="1736" height="749" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578621099044" />
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1578637407556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578637407556" />
+    <state x="347" y="196" width="1251" height="557" key="new project wizard" timestamp="1578615558927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="347" y="196" width="1251" height="557" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1578615558927" />
+    <state x="663" y="153" key="refactoring.ChangeSignatureDialog" timestamp="1578617698871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="663" y="153" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578617698871" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1578636241472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578636241472" />
+  </component>
+</project>
